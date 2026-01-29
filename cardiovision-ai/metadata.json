@@ -1,0 +1,7 @@
+{
+  "name": "CardioVision AI - Advanced ECG Analyzer",
+  "description": "A medical-grade ECG analysis tool using Gemini AI to implement Pan-Tompkins, Heuristic Fuzzy, and Glasgow interpretation algorithms on ECG images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

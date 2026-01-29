@@ -1,0 +1,8 @@
+
+{
+  "name": "Sentinel Notification System",
+  "description": "A high-performance alarm monitoring and stakeholder notification system that provides direct, low-latency alert routing and comprehensive transmission logging.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}

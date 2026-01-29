@@ -1,0 +1,7 @@
+{
+  "name": "RadianceAI X-Ray Enhancer",
+  "description": "An advanced medical imaging assistant that uses Gemini AI to enhance, analyze, and interpret X-ray scans with high-precision visual tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

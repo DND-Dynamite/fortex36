@@ -1,0 +1,7 @@
+{
+  "name": "SafetyNet IoT Monitoring",
+  "description": "An AI-powered IoT health and safety monitoring dashboard that simulates sensor data, detects anomalies using Gemini, and provides predictive health risk assessments.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

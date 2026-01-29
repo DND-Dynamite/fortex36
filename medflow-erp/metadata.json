@@ -1,0 +1,7 @@
+{
+  "name": "MedFlow ERP - Unified Hospital Management",
+  "description": "A comprehensive, high-performance Hospital ERP system covering Clinical (PIM, EHR, CPOE), Operations (OPD, IPD, LIS), and Financial (RCM, HR, Inventory) modules as described in the technical blueprints.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "NeuroVision MRI Suite",
+  "description": "An advanced AI-powered MRI viewer and radiological report generator using Gemini for automated diagnostic assistance and structured medical reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import MemoryGrid from './components/MemoryGrid';
-import AnalysisDashboard from './components/AnalysisDashboard';
+import AnalysisDashboard from './components/MazeAnalysisDashboard';
 import { GameStatus, RoundData, CognitiveAnalysis } from './types';
 import { analyzePerformance } from './services/geminiService';
 
